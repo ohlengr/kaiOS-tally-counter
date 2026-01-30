@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "Tally Counter",
+  "description": "A file simple example manifest.webapp",
+  "type": "web",
+  "launch_path": "/your/repository/index.html",
+  "icons": {
+    "56": "/ic_56.png",
+    "112": "/ic_112.png",
+    "128": "/ic_128.png"
+  },
+  "developer": {
+    "name": "OHLENGR",
+    "url": "https://ohlengr.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Tally Counter",
+      "subtitle": "Tally Counter App for kaiOS featured phone",
+      "description": "Brief description of your app"
+    }
+  },
+  "default_locale": "en-US"
+}
