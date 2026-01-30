@@ -13,3 +13,9 @@ body{
   margin: 0;
   background-color: #ea7e01;
 }
+
+.card {
+  margin: 0 5px;
+  background-color: #FFFFFF;
+  border-radius: 25%;
+}
