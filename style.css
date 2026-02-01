@@ -134,3 +134,18 @@ body{
   background: radial-gradient(#ea7e01, #ea7e01);
   transform: translateY(10px) scale(0.8);
 }
+
+.reset-btn {
+  position: absolute;
+  bottom: 1vh;
+  left: 5vw;
+  font-size: 5rem;
+  padding: 1vh 2vh;
+  border-radius: 50px;
+  border: none;
+}
+
+.reset-btn:active {
+  background: rgb(36 40 48);
+  color: #FFFFFF;
+}
