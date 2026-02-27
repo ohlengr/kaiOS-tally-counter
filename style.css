@@ -91,7 +91,7 @@ body{
 }
 
 .line-three {
-  width: 660px;
+  width: 688px;
   height: 20px;
   background: #ea7e01;
   position: absolute;
@@ -137,7 +137,7 @@ body{
 
 .reset-btn {
   position: absolute;
-  bottom: 1vh;
+  bottom: 5vh;
   left: 5vw;
   font-size: 5rem;
   padding: 1vh 2vh;
